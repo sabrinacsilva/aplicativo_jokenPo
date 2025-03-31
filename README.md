@@ -1,12 +1,11 @@
-#  JokenPo
+# Aplicativo JokenPo✅
 
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto 🚀
 
-**Flutter JokenPo** é um jogo mobile interativo e leve, desenvolvido com **Flutter**, inspirado no clássico jogo **Pedra, Papel, Tesoura**. O aplicativo oferece uma experiência de usuário suave, com uma interface limpa, jogabilidade baseada em IA e randomização, e animações fluidas.
+Este é um aplicativo intuitivo de JokenPô (Pedra, Papel, Tesoura) desenvolvido com o framework Flutter. Nele, o usuário pode desafiar o computador, que faz uma escolha aleatória, e o resultado da partida é exibido de forma dinâmica na interface, proporcionando uma experiência interativa e envolvente.
 
-
-### Principais Características:
+### Principais Características:📝
 
 - **Lógica de Jogo em Tempo Real**: Determina instantaneamente o vencedor após cada jogada, garantindo uma experiência de jogo rápida e dinâmica.
 - **Oponente de IA Aleatório**: Utiliza a classe `Random()` do Dart para gerar movimentos imprevisíveis controlados pelo computador.
@@ -18,7 +17,7 @@
 O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de jogo divertida e envolvente, ao mesmo tempo em que explora as funcionalidades essenciais do Flutter, como gerenciamento de estado, randomização e design responsivo da interface do usuário.
 
 
-## 📋 Requisitos
+## Requisitos 📋
 
 - **Plataforma**: Android 5.0+ / iOS 12+ / Web
 - **Ferramentas**: Flutter SDK 3.10+ / Dart 3.0+
@@ -26,8 +25,7 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 - **Conexão com a Internet**: Não é necessária para a jogabilidade básica
 
 
-## 🛠 Tecnologias Utilizadas
-
+## Tecnologias Utilizadas 🛠
 
 - **Idioma**: Dart
 - **Estrutura**: Flutter
@@ -37,7 +35,7 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 - **Compatibilidade de Dispositivos**: Android, iOS e Web
 
 
-## 🎥 Demonstração em Vídeo  
+## Demonstração em Vídeo: 🎥  
 
 
 https://github.com/user-attachments/assets/d65249a4-00c2-4092-881f-5d0ea8212ab1
@@ -45,7 +43,7 @@ https://github.com/user-attachments/assets/d65249a4-00c2-4092-881f-5d0ea8212ab1
 
 
 
-## 🎯 Objetivos de Aprendizagem
+## Objetivos de Aprendizagem: 🎯
 
 Durante o desenvolvimento do **Flutter JokenPo**, diversos conceitos técnicos foram aplicados e aprimorados, como:
 
