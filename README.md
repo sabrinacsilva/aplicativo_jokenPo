@@ -52,6 +52,3 @@ Durante o desenvolvimento do **Flutter JokenPo**, diversos conceitos técnicos f
 - **Componentes de UI do Flutter**: Criando uma interface interativa e responsiva com os widgets do Material Design.
 - **Desenvolvimento Multiplataforma**: Garantindo compatibilidade entre Android, iOS e Web.
 - **Otimização de Desempenho**: Mantendo o aplicativo leve e rápido, proporcionando uma jogabilidade suave e responsiva.
-
-**Flutter JokenPo** foi desenvolvido para oferecer uma experiência de jogo rápida, divertida e intuitiva para todos os usuários, seja no Android, iOS ou na web!
-
