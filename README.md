@@ -1,8 +1,5 @@
 # Aplicativo JokenPo✅
 
-
-## Sobre o Projeto 🚀
-
 Este é um aplicativo intuitivo de JokenPô (Pedra, Papel, Tesoura) desenvolvido com o framework Flutter. Nele, o usuário pode desafiar o computador, que faz uma escolha aleatória, e o resultado da partida é exibido de forma dinâmica na interface, proporcionando uma experiência interativa e envolvente.
 
 ### Principais Características:📝
